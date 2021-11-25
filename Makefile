@@ -14,7 +14,8 @@ hooks:
 install:
 	cargo install mdbook
 	cargo install mdbook-plantuml --no-default-features
-
+	cargo install mdbook-mermaid
+	mdbook-mermaid install
 
 s serve:
 	mdbook serve

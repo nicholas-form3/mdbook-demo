@@ -5,5 +5,12 @@ multilingual = false
 src = "src"
 title = "mdBook Quickstart"
 description = "Demo site for mdBook Quickstart"
+
 [preprocessor.plantuml]
 plantuml-cmd="plantuml"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]

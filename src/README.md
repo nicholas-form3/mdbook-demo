@@ -4,4 +4,4 @@ Welcome to the demo site for mkBook Quickstart.
 
 View source:
 
-[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
+[![Nicholas-Form3 - mdbook-demo](https://img.shields.io/static/v1?label=nicholas-form3&message=mdbook-demo&color=blue&logo=github)](https://github.com/nicholas-form3/mdbook-demo)

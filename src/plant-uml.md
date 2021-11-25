@@ -1,4 +1,4 @@
-# Chapter 1
+# Plant UML Example
 
 Some text here
 
