@@ -19,14 +19,11 @@
 <div align="center">
 
 <a href="https://nicholas-form3.github.io/mdbook-demo/">
-    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
 </a>
 
 <br>
 
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://nicholas-form3.github.io/mdbook-demo/)
-
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/nicholas-form3/mdbook-demo/generate)
 
 </div>
 
@@ -41,11 +38,3 @@ $ make serve
 
 Open in the browser.
 
-
-## Documentation
-
-<div align="center">
-
-[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/)
-
-</div>
