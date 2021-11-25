@@ -3,7 +3,7 @@ authors = ["Nicholas Hammond"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook Quickstart"
+title = "mdBook Demo"
 description = "Demo site for mdBook Quickstart"
 
 [preprocessor.plantuml]

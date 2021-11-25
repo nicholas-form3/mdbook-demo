@@ -1,4 +1,4 @@
-# mdBook Quickstart
+# mdBook Demo
 
 Welcome to the demo site for mkBook Quickstart.
 
