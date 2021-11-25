@@ -13,6 +13,7 @@ hooks:
 
 install:
 	cargo install mdbook
+	cargo install mdbook-plantuml --no-default-features
 
 
 s serve:
