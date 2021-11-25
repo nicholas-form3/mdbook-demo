@@ -1,10 +1,10 @@
-# mdBook Quickstart 🦀 📙
+# mdBook Demo 🦀 📙
 > Starter template for an online book or docs site made with Markdown and mdBook
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 
 [![GH Pages Deploy](https://github.com/nicholas-form3/mdbook-demo/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/nicholas-form3/mdbook-demo/actions/workflows/main.yml?query=workflow:"GH+Pages+Deploy")
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/mdbook-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/mdbook-quickstart/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/nicholas-form3/mdbook-demo?include_prereleases=&sort=semver)](https://github.com/nicholas-form3/mdbook-demo/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Rust](https://img.shields.io/badge/Rust-1-blue?logo=rust&logoColor=white)](https://www.rust-lang.org/)
