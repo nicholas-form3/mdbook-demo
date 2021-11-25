@@ -1,6 +1,6 @@
 # Summary
 
-- [mdBook Quickstart](README.md)
+- [mdBook Demo](README.md)
 - [Plant Uml Example](plant-uml.md)
 - [Mermaid Example](mermaid.md)
 - [Foo](foo/README.md)
